@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://empaulast.github.io/sitemap.html.gz
+Sitemap: https://empaulast.github.io/app/sitemap.html.gz
+Sitemap: https://empaulast.github.io/assets/sitemap.html.gz
+Sitemap: https://empaulast.github.io/css/sitemap.html.gz
+Sitemap: https://empaulast.github.io/includes/sitemap.html.gz
+Sitemap: https://empaulast.github.io/item/sitemap.html.gz
+Sitemap: https://empaulast.github.io/src/sitemap.html.gz
